@@ -18,6 +18,12 @@
 </a>
 </div>
 <div class="menu-down">
+ <div class="menu-container">
+ <div class="hamburger-icon">
+        <span></span>
+        <span></span>
+        <span></span>
+</div>
 <div class="menu-izquierda"> 
     <a href="">News</a>
     <a href="">Discord Webhook</a>
@@ -27,7 +33,10 @@
     <a href="">Community</a>
     <a href="">Premium</a>
 </div>
+
+</div>
 <div class="menu-derecha">
+<a href="">Login</a>
 <a href="./">
 <img src="img/expand.png" alt="Expandir" height="55">
     <img src="img/notification.png" alt="Notificaciones" height="55">
